@@ -3,7 +3,7 @@
 # :heart: Welcome to Team_Tesla_Genomics Project :heart:
 ## This project is part of Hackbio2020 internship.
 
-We worked on Red Queen Hypothesis on the basis of host-pathogen interaction to see whehter the ACE2 enzyme in bats are under positive selection and giving some advantages from being infected by the SARS-COV2 virus. 
+**We worked on Red Queen Hypothesis on the basis of host-pathogen interaction to see whehter the ACE2 enzyme in bats are under positive selection and giving some advantages from being infected by the SARS-COV2 virus.** 
 
 ## Step :one: 
 > Fetching the codon sequence from the NCBI nucleotide website.
@@ -18,7 +18,7 @@ We worked on Red Queen Hypothesis on the basis of host-pathogen interaction to s
 ## Step :six: 
 > Screened the alignment file and the phylogenetic tree file in the PAML software.
 
-Through history, war has shaped the world and marked it with borders and divided it by countries. The scar of humans’ war is today’s world of continents and countries. Battlefields are everywhere, and war is so inevitable that the presence of such battles can be found at the molecular level inside the living organisms. 
+**Through history, war has shaped the world and marked it with borders and divided it by countries. The scar of humans’ war is today’s world of continents and countries. Battlefields are everywhere, and war is so inevitable that the presence of such battles can be found at the molecular level inside the living organisms.** 
 
 ![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/PMAL%20result.jpg)
 
