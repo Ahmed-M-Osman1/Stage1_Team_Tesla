@@ -12,10 +12,16 @@ In the figure below, we can see the sites that are under positive selection as f
 
 ![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/PMAL%20result.jpg)
 
-### Fig.1: PAML result showing sites with positive selection
+### Fig.1: PAML result showing sites with positive selection.
 
-The figure below is the phylogenetic tree constructed using dnaml tool of PhyLip software. The tree showing how R. ferrumequinumspecies of the bat diverge from other species based on the gene,  ACE2.  This  is  showing  the  rise  of  the  change  in  the  codon  due to  the  selection  pressure posed by the COVID-19 virus. 
+The figure below is the phylogenetic tree constructed using dnaml tool of PhyLip software. The tree showing how R. ferrumequinumspecies of the bat diverge from other species based on the gene,  ACE2.  This  is  showing  the  rise  of  the  change  in  the  codon  due to  the  selection  pressure posed by the COVID-19 virusIn the figure below, we are seeing the alignment of the sites. We have represented here 691st sequence in the coding sequence of the gene that is under positive selection. The arrowhead showing the amino acid coding codon to be under positive selection. We can see how the nucleotide sequence changed with R. ferrumequinum bats common in Southeast Asia and maybe the species from which the COVID-19 virus spread in the humans globally.
 
 ![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/Capture%20final%20(1).PNG)
 
 ### Fig.2: Multiple alignment of the 13 species collected form the blast result showing the change in the nucleotide sequence that codes for amino acids. 
+
+The figure below is the phylogenetic tree constructed using dnaml tool of PhyLip software. The tree showing how R. ferrumequinum species of the bat diverge from other species based on the gene, ACE2. This is showing the rise of the change in the codon due to the selection pressure posed by the COVID-19 virus.
+
+![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/Phylogenetic_tree.png)
+
+### Fig.3: Phylogenetic tree visualized by iTOL and constructed by dnaml tool.
