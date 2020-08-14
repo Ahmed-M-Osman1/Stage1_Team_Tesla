@@ -20,21 +20,9 @@ We worked on Red Queen Hypothesis on the basis of host-pathogen interaction to s
 
 Through history, war has shaped the world and marked it with borders and divided it by countries. The scar of humans’ war is today’s world of continents and countries. Battlefields are everywhere, and war is so inevitable that the presence of such battles can be found at the molecular level inside the living organisms. 
 
-The host-pathogen arms race is defined in the Red Queen Hypothesis where the host and pathogen need to go head to head to survive and avoid one’s extinction. 
-
-Here, we looked at the Red Queen hypothesis on the perspective of the host-pathogen arms race between bats and viruses. We have chosen the ACE2 protein as this is the receptor for SARS-COV2 virus to enter the hosts’ cells and replicate and spread from one host to another. We wanted to see whether the gene is under positive selection and giving bats some advantages by not getting infected by the virus.
-
-In the figure below, we can see the sites that are under positive selection as found by the analysis of codeml of PAML. The starred sites showing that the sites are under significance. *indicating P< 0.05 and **indicates P< 0.001.
-
 ![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/PMAL%20result.jpg)
 
 ### Fig.1: PAML result showing sites with positive selection.
-
-The figure below is the phylogenetic tree constructed using dnaml tool of PhyLip software. The tree showing how *R. ferrumequinum* species of the bat diverge from other species based on the gene,  ACE2.  This  is  showing  the  rise  of  the  change  in  the  codon  due to  the  selection  pressure posed by the COVID-19 virusIn the figure below, we are seeing the alignment of the sites. We have represented here 691st sequence in the coding sequence of the gene that is under positive selection. The arrowhead showing the amino acid coding codon to be under positive selection. We can see how the nucleotide sequence changed with *R. ferrumequinum* bats common in Southeast Asia and maybe the species from which the COVID-19 virus spread in the humans globally.
-
-![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/Capture%20final%20(1).PNG)
-
-### Fig.2: Multiple alignment of the 13 species collected form the blast result showing the change in the nucleotide sequence that codes for amino acids. 
 
 The figure below is the phylogenetic tree constructed using dnaml tool of PhyLip software. The tree showing how *R. ferrumequinum* species of the bat diverge from other species based on the gene, ACE2. This is showing the rise of the change in the codon due to the selection pressure posed by the COVID-19 virus.
 
