@@ -31,3 +31,37 @@ The figure below is the phylogenetic tree constructed using dnaml tool of PhyLip
 ![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/Phylogenetic_tree.png)
 
 ### Fig.2: Phylogenetic tree visualized by iTOL and constructed by dnaml tool.
+
+## **Tools used in our project**💻
+- Biopython : for sequence
+
+- Clustlaw: for multiple alignment
+
+- dnaml tool: for phylogenetic tree construction
+
+- iTOL: For phylogenetic tree visualisation
+
+
+### **Installation of Biopython**
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/13/Biopython_logo.png)
+
+**1-Check which python version installed on your OS**
+ ```
+
+> $ python --version
+
+```
+**2-a- To install pip3**
+```
+$ Curl https://bootstrap.pypa.io/get-pip.py -Oget-pip3.py
+
+```
+
+**b- To upgrade pip to version 20.2.2 (latest version as 14.08.2020)**
+```
+Python3.8 -m pip install —upgrade pip
+```
+**3- To  install Biopython**
+```
+Pip3 install biopython
+```
