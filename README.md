@@ -1,10 +1,11 @@
 ![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/WhatsApp%20Image%202020-08-14%20at%2011.52.18%20PM.jpeg)
 
 # :heart: Welcome to Team_Tesla_Genomics Project :heart:
-## This project is part of Hackbio2020 internship.
+### This project is part of Hackbio2020 internship.
 
 **We worked on Red Queen Hypothesis on the basis of host-pathogen interaction to see whehter the ACE2 enzyme in bats are under positive selection and giving some advantages from being infected by the SARS-COV2 virus.** 
 
+# Project Step:
 ## Step :one: 
 > Fetching the codon sequence from the NCBI nucleotide website.
 ## Step :two: 
@@ -19,17 +20,16 @@
 > Screened the alignment file and the phylogenetic tree file in the PAML software.
 
 
-## **Tools used in our project**💻
-- Biopython : for sequence
+# **Tools used in our project**💻
+- Biopython : for sequence blast.
 
-- Clustlaw: for multiple alignment
+- Clustlaw: for multiple alignment.
 
-- dnaml tool: for phylogenetic tree construction
+- dnaml tool: for phylogenetic tree construction.
 
-- iTOL: For phylogenetic tree visualisation
+- iTOL: For phylogenetic tree visualisation.
 
-
-### **Installation of Biopython**
+## ** A- Installation of Biopython**
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/13/Biopython_logo.png)
 
 **1-Check which python version installed on your OS**
@@ -52,6 +52,33 @@ Python3.8 -m pip install —upgrade pip
 ```
 Pip3 install biopython
 ```
+## ** B- Running Clustlaw**
+
+![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/WhatsApp%20Image%202020-08-14%20at%2011.25.40%20PM.jpeg)
+
+ClustalW like the other Clustal tools is used for aligning multiple nucleotide or protein sequences in an efficient manner. It uses progressive alignment methods, which align the most similar sequences first and work their way down to the least similar sequences until a global alignment is created. ClustalW is a matrix-based algorithm.
+
+![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/Clustal_W.png)
+
+### ** Steps for Running Clustlaw in Linux**
+
+- select option number 1 to add the sequence file.
+
+- Next select option 2 which is like commanding to do the multiple alignment. chart with parameters will appear.
+
+- select option number 9 to have different output files.
+
+- select option number 4 to have a phylip file of the final alignment result.
+
+- Next, come back to the parameter section by pressing enter.
+
+- Then, choose option 1 which is to commanding the software to make the alignment.
+
+## ** C- Running dnaml tool**
+
+![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/phylip.png)
+
+
 
 **Through history, war has shaped the world and marked it with borders and divided it by countries. The scar of humans’ war is today’s world of continents and countries. Battlefields are everywhere, and war is so inevitable that the presence of such battles can be found at the molecular level inside the living organisms.** 
 
