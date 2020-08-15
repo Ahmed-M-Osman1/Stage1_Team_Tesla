@@ -3,9 +3,13 @@
 # :heart: Welcome to Team_Tesla_Genomics Project :heart:
 ### This project is part of Hackbio2020 internship.
 
+We are a team from different time zones, but doing our best in achieving this project is what unites us🤝
+
+![alt text](https://www.azquotes.com/picture-quotes/quote-perhaps-i-failed-but-i-did-my-best-these-masters-of-mine-may-do-the-rest-nikola-tesla-69-48-92.jpg)
+
 **We worked on Red Queen Hypothesis on the basis of host-pathogen interaction to see whehter the ACE2 enzyme in bats are under positive selection and giving some advantages from being infected by the SARS-COV2 virus.** 
 
-# Project Step:
+# Project Steps:
 ## Step :one: 
 > Fetching the codon sequence from the NCBI nucleotide website.
 ## Step :two: 
@@ -75,7 +79,7 @@ ClustalW like the other Clustal tools is used for aligning multiple nucleotide o
 - Then, choose option 1 which is to commanding the software to make the alignment.
 
 
-# Our Result:
+# Our Results:
 **Through history, war has shaped the world and marked it with borders and divided it by countries. The scar of humans’ war is today’s world of continents and countries. Battlefields are everywhere, and war is so inevitable that the presence of such battles can be found at the molecular level inside the living organisms.** 
 
 **Here,  we  looked  at  the  Red  Queenhypothesis  on  the  perspective  of  host-pathogen  arms  race between  bats  and  viruses.  We  have  chosen  the  ACE2  protein  as  this  is  the  receptor  for  SARS-COV2 virus to enter the hosts’ cells and replicate and spread form one host to another.In the figure below, we can see the sites that is under positive selection as found by the analysis of codeml of PAML. The starred sites showing that the sites are under significance.**
