@@ -74,12 +74,8 @@ ClustalW like the other Clustal tools is used for aligning multiple nucleotide o
 
 - Then, choose option 1 which is to commanding the software to make the alignment.
 
-## ** C- Running dnaml tool**
 
-![alt text](https://github.com/akiid777/Stage1_Team_Tesla/blob/master/phylip.png)
-
-
-
+# Our Result:
 **Through history, war has shaped the world and marked it with borders and divided it by countries. The scar of humans’ war is today’s world of continents and countries. Battlefields are everywhere, and war is so inevitable that the presence of such battles can be found at the molecular level inside the living organisms.** 
 
 **Here,  we  looked  at  the  Red  Queenhypothesis  on  the  perspective  of  host-pathogen  arms  race between  bats  and  viruses.  We  have  chosen  the  ACE2  protein  as  this  is  the  receptor  for  SARS-COV2 virus to enter the hosts’ cells and replicate and spread form one host to another.In the figure below, we can see the sites that is under positive selection as found by the analysis of codeml of PAML. The starred sites showing that the sites are under significance.**
